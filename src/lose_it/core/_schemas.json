@@ -219,6 +219,13 @@
       ],
       "is_enum": false
     },
+    "[Lcom.loseit.core.client.model.IntegratedSystem;/4102685419": {
+      "deserialize_fn": "v_g",
+      "fields": [
+        "OBJECT"
+      ],
+      "is_enum": false
+    },
     "[Lcom.loseit.core.client.model.InternalAccountDetails;/664848994": {
       "deserialize_fn": "E$g",
       "fields": [
@@ -1025,6 +1032,11 @@
       "fields": [],
       "is_enum": true
     },
+    "com.loseit.core.client.model.ChallengeType/3416797131": {
+      "deserialize_fn": "wAg",
+      "fields": [],
+      "is_enum": true
+    },
     "com.loseit.core.client.model.City/2457139280": {
       "deserialize_fn": "xAg",
       "fields": [
@@ -1552,6 +1564,34 @@
       "fields": [],
       "is_enum": true
     },
+    "com.loseit.core.client.model.GoalsSummary/26794011": {
+      "deserialize_fn": "nPg",
+      "fields": [
+        "OBJECT",
+        "OBJECT",
+        "BOOLEAN",
+        "DOUBLE",
+        "OBJECT",
+        "OBJECT",
+        "DOUBLE",
+        "OBJECT",
+        "OBJECT",
+        "OBJECT",
+        "DOUBLE",
+        "BOOLEAN",
+        "DOUBLE",
+        "OBJECT",
+        "OBJECT",
+        "OBJECT",
+        "OBJECT",
+        "OBJECT",
+        "OBJECT",
+        "OBJECT",
+        "DOUBLE",
+        "BOOLEAN"
+      ],
+      "is_enum": false
+    },
     "com.loseit.core.client.model.GoalsSummary/907689655": {
       "deserialize_fn": "FOg",
       "fields": [
@@ -1724,6 +1764,11 @@
         "OBJECT"
       ],
       "is_enum": false
+    },
+    "com.loseit.core.client.model.IntegratedSystem/1486576843": {
+      "deserialize_fn": "x_g",
+      "fields": [],
+      "is_enum": true
     },
     "com.loseit.core.client.model.IntegratedSystem/1801028358": {
       "deserialize_fn": "A$g",
